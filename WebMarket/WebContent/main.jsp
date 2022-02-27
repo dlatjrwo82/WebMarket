@@ -9,6 +9,7 @@
 회원 인증된 사용자에게 제공하는 메인 페이지<br>
 
 안녕하세요. ${loginUser.name}(${loginUser.userid})님
+git commit and push test를 위한 수정!!
 
 </body>
 </html>
